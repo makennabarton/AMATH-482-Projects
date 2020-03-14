@@ -1,2 +1,4 @@
-# AMATH-482-Projects
-Reports on solutions to applied problems using Matlab and Python
+# AMATH 482 Projects
+This repository contains reports on solutions to a variety of applied problems using Matlab and Python
+
+# Tracking a Marble 
