@@ -14,3 +14,4 @@ After tracking the motion of a paint can through video files, this report perfor
 This supervised machine learning problem collects music data, trains classifiers to determine thresholds and tests the classifiers on new music data. This problem was completed with Singular Value Decomposition and Linear Discriminant Analysis in MATLAB.
 
 ## Neural Networks
+This project uses the MNIST Fashion data set and works in Python to implement and train a fully-connected neural network and convolutional neural network. The networks are tested and their accruacy is compared
